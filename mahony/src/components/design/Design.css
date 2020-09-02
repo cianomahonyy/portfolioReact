@@ -1,0 +1,76 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#headshot {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.design-container {
+  text-align: center;
+}
+
+.btn-coding {
+  background-color: #fff;
+  color: #15AED3;
+  width: 100px;
+  height: 40px;
+  border-color: #15AED3;
+}
+
+.btn-coding:hover {
+  background-color: #15AED3;
+  border-color: rgb(6, 153, 197);
+}
+
+.btn-design {
+  background-color: #fff;
+  color: #F15A19;
+  width: 100px;
+  height: 40px;
+  border-color: #F15A19;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.btn-design:hover {
+  background-color: #F15A19;
+  border-color: #F15A19;
+}
+
+.btn-cv {
+  background-color: #fff;
+  color: #46DE99;
+  width: 100px;
+  height: 40px;
+  border-color: #46DE99;
+}
+
+.btn-cv:hover {
+  background-color: #46DE99;
+  border-color: #46DE99;
+}
+
+.house-card {
+  margin-top: 10px;
+  width: 600px;
+  text-align: center;
+}
+
+.exam-card {
+  margin-top: 100px;
+  width: 600px;
+  text-align: center;
+}
+
+.design-picture1 {
+  width: 400px;
+}
+
+.design-picture2 {
+  width: 600px;
+}
